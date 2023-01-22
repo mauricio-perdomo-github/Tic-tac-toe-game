@@ -7,6 +7,7 @@
 
 body {
     display: grid;
+    flex-wrap: wrap;
     place-items: center;
     height: 100vh;
     background: #131419;
